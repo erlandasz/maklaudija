@@ -1,9 +1,11 @@
 ---
-title: solo
+title: Portfolio
 date: "2019-05-07"
 tags: [porftolio, laiko planavimas]
-thumbnail: ./solo.jpeg
+thumbnail: ./bbbb.jpg
 description: dar tau reikia bilietus i solo ansamblio konca pasiimt
 ---
 
-bus ahujens koncas
+pasidarei jau?
+
+ane?
